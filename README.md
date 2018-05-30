@@ -1,0 +1,2 @@
+# palindrome
+Calculate palindrome string
